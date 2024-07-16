@@ -1,3 +1,3 @@
-The header of the website is not responsive, therefore I have attached the screenshot of the website.
-I may be able to complete the bonus task by 16th evening.
-and the javascript is inside index.html only
+The header is not much responsive, therefore I have attached a screenshot of the website as seen on my laptop (1920*1080).
+All the tasks have been completed including the bonus talk, Thank you!
+
